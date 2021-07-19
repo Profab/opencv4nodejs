@@ -41,7 +41,7 @@
     "nan": "^2.14.0",
     "native-node-utils": "^0.2.7",
     "npmlog": "^4.1.2",
-    "opencv-build": "^0.1.9"
+    "opencv-build": "github:profab/npm-opencv-build#ac7b8b46d835024b81dc8418730b47e0ee961b37"
   },
   "optionalDependencies": {
     "@types/node": ">6"
